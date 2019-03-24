@@ -1,4 +1,4 @@
-# Windows Bearbones Project
+# Windows Barebones Project
 
 Hi everyone,
 
